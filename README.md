@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning React.js
 -  Telecommunication engineering student
 
 
