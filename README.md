@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Project: Working on a commercial website. <br> 👯 Collaboration: Open to collaborating on frontend and backend projects. <br> 🤝 Seeking Help: Looking for assistance with backend development. <br> 🌱 Learning Journey: Currently diving into Python. <br> 💬 Topics to Ask Me About: Web development, programming, and telecommunication engineering. <br>⚡ Fun Fact: Did you know that Nairobi is home to one of the fastest-growing tech scenes in Africa? <br>Why do programmers prefer dark mode?<br>Because light attracts bugs! 🐛💡<br> 🎓 Education: Telecommunication and Information Engineering student & Software Engineering student.
+🔭 Current Project: Working on a commercial website. <br> 👯 Collaboration: Open to collaborating on frontend and backend projects. <br> 🤝 Seeking Help: Looking for assistance with backend development. <br> 🌱 Learning Journey: Currently diving into Python. <br> 💬 Topics to Ask Me About: Web development, programming, and telecommunication engineering. <br>⚡ Fun Fact:Why do programmers prefer dark mode?<br>Because light attracts bugs! 🐛💡<br> 🎓 Education: Telecommunication and Information Engineering student & Software Engineering student.
 
 
 ## 🌐 Socials:
